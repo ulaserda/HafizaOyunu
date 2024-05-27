@@ -11,6 +11,8 @@ Oyuncunun çevirdiği her kartta çevirme sayısı takip edilecek ve en az sayı
 
 Oyuncunun bütün kartları eşledikten sonra elde ettiği tıklama sayısının düşüklüğü puanıyla ters orantıda olacak yani ne kadar az tık var ise o kadar başarılı olmuş olacak. 
 
+Oyun Video Linki:https://www.youtube.com/watch?v=FPGkzBUmL4g
+
 İyi Eğlenceler.
 
 ![Ekran görüntüsü 2024-05-27 110343](https://github.com/ulaserda/HafizaOyunu/assets/149077553/f204d073-87cb-4c16-9881-6f7b7a735620)
