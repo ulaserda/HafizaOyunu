@@ -5,6 +5,8 @@ Kolay,orta ve zor olmak üzere üç bölümden oluşuyor.
 
 Oyunun amacı arkası dönük olan kartları tek seferde 2'şer tane çevirerek eşlerini bulmak.
 
+Arkadaşlar ile güzel vakit geçirmek için oynanabilir.
+
 2)Nasıl Oynanır
 
 Arkası dönük kartlara mouse ile tıklayarak yüzlerini döndürünüz.
