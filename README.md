@@ -15,11 +15,11 @@ Eşlenen kartlar kilitlenecek,diğer kartlardan devam edeceksiniz.
 
 Eşlenen kartlar geri kapatılamaz.
 
-   2)Ölçüm 
+   3)Ölçüm 
 
 Oyuncunun kartları kaç tıklama ile açtığı oyunun sağ üst köşesinde hesaplanacak.
 
-  3)Puanlama 
+  4)Puanlama 
 
 Oyuncunun bütün kartları eşledikten sonra elde ettiği tıklama sayısının düşüklüğü puanıyla ters orantıda olacak.
 
