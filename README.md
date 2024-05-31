@@ -2,13 +2,17 @@
  1)Oyunun Amacı 
 
 Kolay,orta ve zor olmak üzere üç bölümden oluşuyor.
+
 Oyunun amacı arkası dönük olan kartları tek seferde 2'şer tane çevirerek eşlerini bulmak.
 
 2)Nasıl Oynanır
 
 Arkası dönük kartlara mouse ile tıklayarak yüzlerini döndürünüz.
+
 Eşlenen kartlar kilitlenecek,diğer kartlardan devam edeceksiniz.
+
 2 kart açıkken başka kart açılamaz.
+
 Eşlenen kartlar geri kapatılamaz.
 
    2)Ölçüm 
@@ -18,6 +22,7 @@ Oyuncunun kartları kaç tıklama ile açtığı oyunun sağ üst köşesinde he
   3)Puanlama 
 
 Oyuncunun bütün kartları eşledikten sonra elde ettiği tıklama sayısının düşüklüğü puanıyla ters orantıda olacak.
+
 Ne kadar az tık var ise o kadar başarılı olmuş olacak.
 
 Oyun Video Linki:https://www.youtube.com/watch?v=FPGkzBUmL4g
