@@ -1,4 +1,6 @@
 # HafizaOyunu
+https://drive.google.com/file/d/1QaB8JNVvNQ4h52zVfy8D_CEPXCk3xCee/view?usp=sharing
+ 
  1)Oyunun Amacı 
 
 Kolay,orta ve zor olmak üzere üç bölümden oluşuyor.
